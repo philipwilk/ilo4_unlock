@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 #
 # This file is part of ilo4_unlock (https://github.com/kendallgoto/ilo4_unlock/).
 # Copyright (c) 2022 Kendall Goto

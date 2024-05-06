@@ -1,4 +1,4 @@
 [submodule "ilo4_toolbox"]
 	path = ilo4_toolbox
-	url = https://github.com/airbus-seclab/ilo4_toolbox.git
+	url = git@github.com:philipwilk/ilo4_toolbox.git
 	ignore = dirty
